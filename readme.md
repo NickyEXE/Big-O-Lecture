@@ -1,5 +1,7 @@
 # **Computer Science Series: Big O Notation**
 
+Presentation Available Here: https://docs.google.com/presentation/d/11LZMaVAoLb0ijm84WICgDW-iDlT9053B7NKM4rTXScE/edit?usp=sharing
+
 ## SWBATs
 - [ ] Define 'algorithm'
 - [ ] Encounter Big O terminology and not feel intimidated
